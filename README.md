@@ -65,3 +65,4 @@ Visual Studio 2019 is required to build mod DLLs on Windows. In the Visual Studi
 Tools have not yet been updated for VS2019, but can be built using the VS2010 projects in the `projects\vs2010` folder. See the `readme.txt` file there.
 
 Linux binaries are built using Makefiles found in the `linux` folder, and are expected to be built / run in the Steam Runtime "scout" environment. You will need to set the environment variables VALVE_NO_AUTO_P4=1 and USE_STEAM_RUNTIME=1 while building.
+cheesemn2.github.io
